@@ -56,7 +56,6 @@ public class Reminder {
 
 			private void setVisible(boolean b) {
 				// TODO Auto-generated method stub
-				
 			}
 		});
 		btnNewButton.setBounds(380, 149, 180, 61);
