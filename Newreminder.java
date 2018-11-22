@@ -24,9 +24,7 @@ public class Newreminder extends JFrame {
 	private JTextField JT_date;
 	private JTextField JT_event;
 
-	/**
-	 * Launch the application.
-	 */
+	// DATABASE CONNECTION ,DATABSE NAME:event
 	public void theQuery(String query){
 	      Connection con = null;
 	      Statement st = null;
